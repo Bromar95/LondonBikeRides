@@ -74,11 +74,7 @@ The dashboard combines five sheets:
 - **Reference band** shades the selected period on the chart, and color highlights the rides that fall inside it.
 
 ## Key Findings
-
-<!-- EDIT: add 2 to 4 findings from your own dashboard. Examples to check and adjust: -->
 - Ride demand follows a clear seasonal cycle, peaking in summer and dropping in winter.
-- <!-- Busiest hours (e.g. morning and evening commute peaks) -->
-- <!-- Effect of weather (e.g. clear days vs rain) -->
 
 ## How to Reproduce
 
