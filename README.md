@@ -102,4 +102,4 @@ Data provided by Hristo Mavrodiev on Kaggle.
 ## Author
 
 **Omar Shazley**
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [Tableau Public](https://public.tableau.com/app/profile/omar.shazley) · [GitHub](https://github.com/Bromar95)
+[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7513858195715518465/) · [Tableau Public](https://public.tableau.com/app/profile/omar.shazley) · [GitHub](https://github.com/Bromar95)
