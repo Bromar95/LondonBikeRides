@@ -17,6 +17,10 @@ An interactive Tableau dashboard that explores two years of London bike-share de
 | **Size** | 17,414 hourly records, 10 columns |
 | **Tools** | Python (pandas, zipfile, Kaggle API), Jupyter Notebook, Tableau Public |
 
+!## 📷 Dashboard Preview
+
+[![London Bike Rides Dashboard](londonbikerides_dashboard.png)](https://public.tableau.com/app/profile/omar.shazley/viz/LondonBikeRides_17914418500610/Dashboard1)
+
 ## Questions Explored
 
 - How does bike demand rise and fall across the year?
