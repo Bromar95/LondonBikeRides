@@ -4,8 +4,6 @@ An interactive Tableau dashboard that explores two years of London bike-share de
 
 **[View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/omar.shazley/viz/LondonBikeRides_17914418500610/Dashboard1)**
 
-![Dashboard preview](images/dashboard.png)
-
 ---
 
 ## Project Overview
